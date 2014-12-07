@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="benri_logo.png">
+</p>
+
 Welcome to Benri!
 ==========
 
