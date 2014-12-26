@@ -11,10 +11,11 @@ this is the definitive README repository **all BENRI members** should read befor
 # Table of Contents
 * [Code Conventions](conventions)
 * [Engineering Design](engineering)
-* [Team](#team-members)
+* [Team](teaminfo)
 
-# <a name="team-members"></a> Team
+# <a name="team-members"></a> Outreach
 - Kelvin Tay <kelvintaywl@gmail.com>
+- Langer Lee <langerljh@gmail.com>
 
 Or contact us on [Slack](http://benri.slack.com)
 
