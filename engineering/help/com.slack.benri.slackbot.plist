@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.slack.benri.slackbot</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>bash</string>
+    <string>/Users/kelvintay/slackbot.sh</string>
+  </array>
+  <key>StartCalenderInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>19</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+    <key>Weekday</key>
+    <integer>3</integer>
+  </dict>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/kelvintay/cron.err</string>
+
+</dict>
+</plist>
+
