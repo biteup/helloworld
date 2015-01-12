@@ -8,3 +8,4 @@ Below are the lists of conventions Benri will adopt:
 
 * [Frontend Conventions](frontend.md)
 * [Backend Conventions](backend.md)
+* [Pushing Code to Github](github.md)
