@@ -12,14 +12,10 @@ Cron Jobs
 At times, we may need to relegate some time-based tasks off from the main application, and into smaller manageable cron jobs.
 Examples include sending an email to users every start of the month.
 
-If needed, we can write crons with python, given the excellent python package, [python-crontab](https://pypi.python.org/pypi/python-crontab)
-The ease of writing programs in Python should make cron management fun!
+For us, Node JS seem to be a good fit, given that these jobs seem very much event-driven. We currently maintain all cron-related scripts over at [Runningman repository](http://github.com/gobbl/runningman) (built with Node JS)
 
 Main Application
 ----------------
 
-After deliberating between Go and Python, we decided that Go would be the language of our main backend application.
-Why? Because trying new technologies should be encouraged!
-
-Also, given the strong support around Go (see http://gophercasts.io for instance), I think we would have fun building a backend web application with Go and Martini.
+After deliberating between Go and Python, while using Go to build something would be educational and really cool, I have better understanding of Python compared to Go. Hence, for faster production, we decided to use Python, and in particular the Falcon framework. You can find the main backend API server [here](http://github.com/gobbl/snakebite).
 
