@@ -60,7 +60,11 @@ As we are likely to push code addressing a certain Asana task, please ensure git
 
 An example would be:
 
-``` $ git commit -m '#1234 update unit tests'``` when the Asana Task ID is 1234.
+- when addressing Asana Task ID #1234,
+
+```
+$ git commit -m '#1234 update unit tests'
+```
 
 To know more about the commit syntax, please see https://github.com/jamieforrest/github-asana#commit-syntax
 
