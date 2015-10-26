@@ -52,6 +52,19 @@ Take a look at the available labels on the SnakeBite or Adam repositories, and y
 - P 1: critical priority: this is rather important; we should try to get this added in within the next 5 working days
 - P 2: nothing critical but it should be pushed or merged into the main code, within 2 weeks or so.
 
+## 4. Include Asana Task IDs in commit messages
+
+As we are using [Asana](https://app.asana.com/0/60754853973220/list) for project management, feature requests and bug issues are first recorded as tasks in Asana.
+
+As we are likely to push code addressing a certain Asana task, please ensure git commit messages include the Asana Task ID (we have added the Github-Asana webhook services for integration).
+
+An example would be:
+
+``` $ git commit -m '#1234 update unit tests'``` when the Asana Task ID is 1234.
+
+To know more about the commit syntax, please see https://github.com/jamieforrest/github-asana#commit-syntax
+
+
 ## Conclusion
 
 With this, let's try to keep things tidy on Github.
