@@ -2,11 +2,11 @@
   <img src="benri_logo.png">
 </p>
 
-Welcome to Gobbl!
+Welcome to Biteup!
 ==========
 
 Like the Hello World program most began their programming journey from, 
-this is the definitive README repository **all Gobbl members** should try to read before pushing code.
+this is the definitive README repository **all Biteup members** should try to read before pushing code.
 
 # Table of Contents
 * Development
@@ -18,6 +18,6 @@ this is the definitive README repository **all Gobbl members** should try to rea
 - Kelvin Tay <kelvintaywl@gmail.com>
 - Langer Lee <langerljh@gmail.com>
 
-Or contact us on [Slack](http://gobbl.slack.com)
+Or contact us on [Slack](http://biteup.slack.com)
 
 
