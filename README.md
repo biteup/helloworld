@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="benri_logo.png">
+  <img src="assets/img/logo.png">
 </p>
 
 Welcome to Biteup!
